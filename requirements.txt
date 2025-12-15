@@ -1,0 +1,11 @@
+Pillow
+dotenv
+certifi
+fastapi
+langchain
+pymongo[srv]
+langchain-core
+fastapi[standard]
+langchain-huggingface
+langchain-google-genai
+
