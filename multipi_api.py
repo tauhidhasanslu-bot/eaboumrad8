@@ -23,4 +23,5 @@ async def query(user_prompt:str = Form(...),
     response = llm_model.invoke(prompt)
 
 
+
     return response
